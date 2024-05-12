@@ -1,4 +1,4 @@
 ## Kaihatsu Kun 
 ### Former Doxbin Member 🃏
- ` Learning about web secuirty , c++ , hardwares and web-3
+ ` Learning about web security , c++ , hardwares and web-3
 `
